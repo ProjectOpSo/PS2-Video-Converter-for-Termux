@@ -32,7 +32,7 @@ All videos are converted into: **AVI (Xvid + MP3)**
 
 ### Android
 * Android device
-* Termux (Download Termux from **F-Droid** for the best compatibility)
+* termux app
 
 ### Install Required Packages
 
@@ -57,7 +57,7 @@ pkg install git
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com
+   git clone https://github.com/ProjectOpSo/PS2-Video-Converter-for-Termux.git
    ```
 
 2. **Enter the directory:**

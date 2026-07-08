@@ -87,8 +87,8 @@ Default output directory:
 
 You can edit these paths directly inside the script:
 ```bash
-ORIGEM="/sdcard/Download/Movies"
-DESTINO="/sdcard/Download/Moviesg"
+ORIGIN="/sdcard/Download/Movies"
+DESTINATION="/sdcard/Download/Moviesg"
 ```
 
 ---
